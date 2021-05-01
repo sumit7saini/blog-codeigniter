@@ -1,0 +1,8 @@
+<section>
+	<div class="container">
+		<h1>About Us</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam magna et bibendum rutrum. Cras hendrerit tellus ex, in eleifend lectus ornare in. Curabitur varius blandit purus luctus elementum. Pellentesque id venenatis mi, at feugiat orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin et mattis massa, id viverra odio. Ut ornare lectus ut lobortis iaculis. Praesent feugiat vehicula dui interdum faucibus. Aliquam accumsan felis eget cursus condimentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla leo arcu, hendrerit et est non, eleifend auctor nisl. Maecenas pellentesque metus tortor, non pellentesque velit volutpat vitae. Maecenas congue rutrum mauris. Duis a magna magna. Cras faucibus scelerisque vehicula.</p>
+		<h2>Learn More</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam magna et bibendum rutrum. Cras hendrerit tellus ex, in eleifend lectus ornare in. Curabitur varius blandit purus luctus elementum. Pellentesque id venenatis mi, at feugiat orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin et mattis massa, id viverra odio. Ut ornare lectus ut lobortis iaculis. Praesent feugiat vehicula dui interdum faucibus. Aliquam accumsan felis eget cursus condimentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla leo arcu, hendrerit et est non, eleifend auctor nisl. Maecenas pellentesque metus tortor, non pellentesque velit volutpat vitae. Maecenas congue rutrum mauris. Duis a magna magna. Cras faucibus scelerisque vehicula.</p>
+	</div>
+</section>
