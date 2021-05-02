@@ -1,4 +1,16 @@
 <section>
+	<?php 
+		$session = \Config\Services::session();
+	?>
+	<?php if(isset($session->success)): ?>
+			<div class="alert alert-success text-center alert-dismissable show fade mb-0" role="0">
+				<?= $session->success ?>
+				<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+					<span area-hidden="true">&times;</span>
+				</button>
+			</div>
+	<?php endif ?>
+	<?php ?>
 	<div>
 		<div class="jumbotron">
 			<div class="container">
@@ -13,3 +25,20 @@
 </div>
 	</div>
 </section>
+<section class="blog-section">
+	<div class="container">
+	<?php
+		echo "<pre>";
+		if($news) {
+			foreach ($news as $newsItem) { ?>
+				 <h3><a href="/blog/<?= $newsItem['slug'] ?>"><?= $newsItem['title']  ?></a></h3>
+			<?php }
+		}	
+		else {
+			echo "<p class='text-center'>No posts have been found</p>";
+		}
+		echo "</pre>";
+	?>
+	</div>
+</section
+
